@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="align-items: center; justify-content: center; justify-items: center;">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=FokshaKirill" alt="GitHub Streak">
   </a>
