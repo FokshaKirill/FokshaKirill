@@ -16,6 +16,6 @@ At the moment I am a newbie in programming, learning C#. Currently I’m working
 
 I work until I realize my full potential, I’m ready to bring something new into this world, and I love positive vibes.
 
-You can contact me via tg: [keefire](https://t.me/keefiremgmt) or you can check my own web-page 👉 [web-page](https://fokshakirill.github.io)
+You can contact me via tg: [keefire](https://t.me/keefiremgmt) or you can check my own web-page 👉 [web-page](https://fokshakirill.github.io/FokshaKirill/)
 
 That's the way the cookie crumbles.. 🍪
