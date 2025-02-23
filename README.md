@@ -1,10 +1,14 @@
-![Snake animation](https://github.com/FokshaKirill/FokshaKirill/blob/main/github-user-contribution.svg)
+<p align="center">
+  <a href="https://github.com/FokshaKirill/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg">
+    <img src="https://github.com/FokshaKirill/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" alt="GitHub Streak">
+  </a>
+</p>
 
-<div style="align-items: center; justify-content: center; justify-items: center;">
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=FokshaKirill" alt="GitHub Streak">
   </a>
-</div>
+</p>
 
 Sup👋
 
